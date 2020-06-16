@@ -1,0 +1,12 @@
+[
+  {
+    "id_warehouse": 1,
+    "id_store": 1,
+    "max_capacity": 5000
+  },
+  {
+    "id_warehouse": 2,
+    "id_store": 2,
+    "max_capacity": 5000
+  }
+]

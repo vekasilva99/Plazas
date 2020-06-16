@@ -1,0 +1,16 @@
+[
+  {
+    "id_store": 1,
+    "name": "Plaza Las Mercedes",
+    "max_capacity": 100,
+    "openingHour": "9:00:00",
+    "closingHour": "20:00:00"
+  },
+  {
+    "id_store": 2,
+    "name": "Plaza Los Naranjos",
+    "max_capacity": 100,
+    "openingHour": "9:00:00",
+    "closingHour": "20:00:00"
+  }
+]
