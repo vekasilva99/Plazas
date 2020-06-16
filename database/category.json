@@ -1,0 +1,50 @@
+[
+  {
+    "id_category": 1,
+    "name": "Cleaning"
+  },
+  {
+    "id_category": 2,
+    "name": "Alcohol"
+  },
+  {
+    "id_category": 3,
+    "name": "Drinks"
+  },
+  {
+    "id_category": 4,
+    "name": "Processed"
+  },
+  {
+    "id_category": 5,
+    "name": "Vegetables"
+  },
+  {
+    "id_category": 6,
+    "name": "Frozen"
+  },
+  {
+    "id_category": 7,
+    "name": "Seeds"
+  },
+  {
+    "id_category": 8,
+    "name": "Spices and Sauces"
+  },
+  {
+    "id_category": 9,
+    "name": "Kitchen"
+  },
+  {
+    "id_category": 10,
+    "name": "Fruits"
+  },
+  {
+    "id_category": 11,
+    "name": "Meat"
+  },
+  {
+    "id_category": 12,
+    "name": "Sweets"
+  }
+]

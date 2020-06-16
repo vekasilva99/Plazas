@@ -1,0 +1,14 @@
+[
+  {
+    "id_bank": 1,
+    "name": "Mercantil"
+  },
+  {
+    "id_bank": 2,
+    "name": "Banesco"
+  },
+  {
+    "id_bank": 3,
+    "name": "Provincial"
+  }
+]

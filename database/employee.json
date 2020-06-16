@@ -1,0 +1,82 @@
+[
+  {
+    "id_employee": 1,
+    "name": "Tallie Gealle",
+    "identification": "87-2908024",
+    "salary": 3013375,
+    "gender": "M",
+    "id_store": 2
+  },
+  {
+    "id_employee": 2,
+    "name": "Culley MacNamara",
+    "identification": "99-2139516",
+    "salary": 5471176,
+    "gender": "M",
+    "id_store": 1
+  },
+  {
+    "id_employee": 3,
+    "name": "Hannie Moorfield",
+    "identification": "69-2389408",
+    "salary": 2100200,
+    "gender": "F",
+    "id_store": 1
+  },
+  {
+    "id_employee": 4,
+    "name": "Maddie Wurz",
+    "identification": "14-6610004",
+    "salary": 6491330,
+    "gender": "F",
+    "id_store": 2
+  },
+  {
+    "id_employee": 5,
+    "name": "Marybeth Caccavari",
+    "identification": "73-8367121",
+    "salary": 3984410,
+    "gender": "F",
+    "id_store": 1
+  },
+  {
+    "id_employee": 6,
+    "name": "Rolland Cayzer",
+    "identification": "32-3888650",
+    "salary": 5362744,
+    "gender": "M",
+    "id_store": 2
+  },
+  {
+    "id_employee": 7,
+    "name": "Perren Gromley",
+    "identification": "57-3549627",
+    "salary": 2514061,
+    "gender": "M",
+    "id_store": 2
+  },
+  {
+    "id_employee": 8,
+    "name": "Ximenez Flicker",
+    "identification": "67-0648698",
+    "salary": 1574548,
+    "gender": "M",
+    "id_store": 1
+  },
+  {
+    "id_employee": 9,
+    "name": "Gerrie Gounin",
+    "identification": "70-1604763",
+    "salary": 2393573,
+    "gender": "M",
+    "id_store": 1
+  },
+  {
+    "id_employee": 10,
+    "name": "Robbert Benyon",
+    "identification": "71-4027208",
+    "salary": 2886665,
+    "gender": "M",
+    "id_store": 2
+  }
+]

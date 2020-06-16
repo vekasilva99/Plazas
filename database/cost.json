@@ -1,0 +1,752 @@
+[
+  {
+    "id_producto": 1,
+    "date": "2020-06-01",
+    "cost": 1813
+  },
+  {
+    "id_producto": 2,
+    "date": "2020-06-01",
+    "cost": 1760
+  },
+  {
+    "id_producto": 3,
+    "date": "2020-06-01",
+    "cost": 1615
+  },
+  {
+    "id_producto": 4,
+    "date": "2020-06-01",
+    "cost": 1470
+  },
+  {
+    "id_producto": 5,
+    "date": "2020-06-01",
+    "cost": 1724
+  },
+  {
+    "id_producto": 6,
+    "date": "2020-06-01",
+    "cost": 1240
+  },
+  {
+    "id_producto": 7,
+    "date": "2020-06-01",
+    "cost": 1879
+  },
+  {
+    "id_producto": 8,
+    "date": "2020-06-01",
+    "cost": 1658
+  },
+  {
+    "id_producto": 9,
+    "date": "2020-06-01",
+    "cost": 1282
+  },
+  {
+    "id_producto": 10,
+    "date": "2020-06-01",
+    "cost": 1740
+  },
+  {
+    "id_producto": 11,
+    "date": "2020-06-01",
+    "cost": 1883
+  },
+  {
+    "id_producto": 12,
+    "date": "2020-06-01",
+    "cost": 1181
+  },
+  {
+    "id_producto": 13,
+    "date": "2020-06-01",
+    "cost": 1470
+  },
+  {
+    "id_producto": 14,
+    "date": "2020-06-01",
+    "cost": 1504
+  },
+  {
+    "id_producto": 15,
+    "date": "2020-06-01",
+    "cost": 1972
+  },
+  {
+    "id_producto": 16,
+    "date": "2020-06-01",
+    "cost": 1370
+  },
+  {
+    "id_producto": 17,
+    "date": "2020-06-01",
+    "cost": 1667
+  },
+  {
+    "id_producto": 18,
+    "date": "2020-06-01",
+    "cost": 1649
+  },
+  {
+    "id_producto": 19,
+    "date": "2020-06-01",
+    "cost": 1568
+  },
+  {
+    "id_producto": 20,
+    "date": "2020-06-01",
+    "cost": 1975
+  },
+  {
+    "id_producto": 21,
+    "date": "2020-06-01",
+    "cost": 1269
+  },
+  {
+    "id_producto": 22,
+    "date": "2020-06-01",
+    "cost": 1177
+  },
+  {
+    "id_producto": 23,
+    "date": "2020-06-01",
+    "cost": 1802
+  },
+  {
+    "id_producto": 24,
+    "date": "2020-06-01",
+    "cost": 1313
+  },
+  {
+    "id_producto": 25,
+    "date": "2020-06-01",
+    "cost": 1042
+  },
+  {
+    "id_producto": 26,
+    "date": "2020-06-01",
+    "cost": 1069
+  },
+  {
+    "id_producto": 27,
+    "date": "2020-06-01",
+    "cost": 1484
+  },
+  {
+    "id_producto": 28,
+    "date": "2020-06-01",
+    "cost": 1957
+  },
+  {
+    "id_producto": 29,
+    "date": "2020-06-01",
+    "cost": 1324
+  },
+  {
+    "id_producto": 30,
+    "date": "2020-06-01",
+    "cost": 1098
+  },
+  {
+    "id_producto": 31,
+    "date": "2020-06-01",
+    "cost": 1110
+  },
+  {
+    "id_producto": 32,
+    "date": "2020-06-01",
+    "cost": 1509
+  },
+  {
+    "id_producto": 33,
+    "date": "2020-06-01",
+    "cost": 1420
+  },
+  {
+    "id_producto": 34,
+    "date": "2020-06-01",
+    "cost": 1953
+  },
+  {
+    "id_producto": 35,
+    "date": "2020-06-01",
+    "cost": 1358
+  },
+  {
+    "id_producto": 36,
+    "date": "2020-06-01",
+    "cost": 1145
+  },
+  {
+    "id_producto": 37,
+    "date": "2020-06-01",
+    "cost": 1661
+  },
+  {
+    "id_producto": 38,
+    "date": "2020-06-01",
+    "cost": 1364
+  },
+  {
+    "id_producto": 39,
+    "date": "2020-06-01",
+    "cost": 1793
+  },
+  {
+    "id_producto": 40,
+    "date": "2020-06-01",
+    "cost": 1999
+  },
+  {
+    "id_producto": 41,
+    "date": "2020-06-01",
+    "cost": 1368
+  },
+  {
+    "id_producto": 42,
+    "date": "2020-06-01",
+    "cost": 1285
+  },
+  {
+    "id_producto": 43,
+    "date": "2020-06-01",
+    "cost": 1609
+  },
+  {
+    "id_producto": 44,
+    "date": "2020-06-01",
+    "cost": 1839
+  },
+  {
+    "id_producto": 45,
+    "date": "2020-06-01",
+    "cost": 1053
+  },
+  {
+    "id_producto": 46,
+    "date": "2020-06-01",
+    "cost": 1307
+  },
+  {
+    "id_producto": 47,
+    "date": "2020-06-01",
+    "cost": 1805
+  },
+  {
+    "id_producto": 48,
+    "date": "2020-06-01",
+    "cost": 1406
+  },
+  {
+    "id_producto": 49,
+    "date": "2020-06-01",
+    "cost": 1318
+  },
+  {
+    "id_producto": 50,
+    "date": "2020-06-01",
+    "cost": 1941
+  },
+  {
+    "id_producto": 1,
+    "date": "2020-06-13",
+    "cost": 2745
+  },
+  {
+    "id_producto": 2,
+    "date": "2020-06-08",
+    "cost": 2419
+  },
+  {
+    "id_producto": 3,
+    "date": "2020-06-11",
+    "cost": 2345
+  },
+  {
+    "id_producto": 4,
+    "date": "2020-06-08",
+    "cost": 2236
+  },
+  {
+    "id_producto": 5,
+    "date": "2020-06-09",
+    "cost": 2067
+  },
+  {
+    "id_producto": 6,
+    "date": "2020-06-12",
+    "cost": 2932
+  },
+  {
+    "id_producto": 7,
+    "date": "2020-06-10",
+    "cost": 2493
+  },
+  {
+    "id_producto": 8,
+    "date": "2020-06-10",
+    "cost": 2800
+  },
+  {
+    "id_producto": 9,
+    "date": "2020-06-12",
+    "cost": 2519
+  },
+  {
+    "id_producto": 10,
+    "date": "2020-06-11",
+    "cost": 2980
+  },
+  {
+    "id_producto": 11,
+    "date": "2020-06-13",
+    "cost": 2743
+  },
+  {
+    "id_producto": 12,
+    "date": "2020-06-11",
+    "cost": 2139
+  },
+  {
+    "id_producto": 13,
+    "date": "2020-06-12",
+    "cost": 2664
+  },
+  {
+    "id_producto": 14,
+    "date": "2020-06-13",
+    "cost": 2989
+  },
+  {
+    "id_producto": 15,
+    "date": "2020-06-08",
+    "cost": 2835
+  },
+  {
+    "id_producto": 16,
+    "date": "2020-06-10",
+    "cost": 2704
+  },
+  {
+    "id_producto": 17,
+    "date": "2020-06-12",
+    "cost": 2849
+  },
+  {
+    "id_producto": 18,
+    "date": "2020-06-09",
+    "cost": 2938
+  },
+  {
+    "id_producto": 19,
+    "date": "2020-06-09",
+    "cost": 2879
+  },
+  {
+    "id_producto": 20,
+    "date": "2020-06-08",
+    "cost": 2469
+  },
+  {
+    "id_producto": 21,
+    "date": "2020-06-13",
+    "cost": 2743
+  },
+  {
+    "id_producto": 22,
+    "date": "2020-06-12",
+    "cost": 2933
+  },
+  {
+    "id_producto": 23,
+    "date": "2020-06-10",
+    "cost": 2357
+  },
+  {
+    "id_producto": 24,
+    "date": "2020-06-09",
+    "cost": 2435
+  },
+  {
+    "id_producto": 25,
+    "date": "2020-06-12",
+    "cost": 2942
+  },
+  {
+    "id_producto": 26,
+    "date": "2020-06-11",
+    "cost": 2848
+  },
+  {
+    "id_producto": 27,
+    "date": "2020-06-08",
+    "cost": 2785
+  },
+  {
+    "id_producto": 28,
+    "date": "2020-06-10",
+    "cost": 2068
+  },
+  {
+    "id_producto": 29,
+    "date": "2020-06-10",
+    "cost": 2817
+  },
+  {
+    "id_producto": 30,
+    "date": "2020-06-13",
+    "cost": 2626
+  },
+  {
+    "id_producto": 31,
+    "date": "2020-06-09",
+    "cost": 2333
+  },
+  {
+    "id_producto": 32,
+    "date": "2020-06-09",
+    "cost": 2203
+  },
+  {
+    "id_producto": 33,
+    "date": "2020-06-13",
+    "cost": 2187
+  },
+  {
+    "id_producto": 34,
+    "date": "2020-06-12",
+    "cost": 2349
+  },
+  {
+    "id_producto": 35,
+    "date": "2020-06-12",
+    "cost": 2728
+  },
+  {
+    "id_producto": 36,
+    "date": "2020-06-13",
+    "cost": 2460
+  },
+  {
+    "id_producto": 37,
+    "date": "2020-06-13",
+    "cost": 2095
+  },
+  {
+    "id_producto": 38,
+    "date": "2020-06-11",
+    "cost": 2459
+  },
+  {
+    "id_producto": 39,
+    "date": "2020-06-08",
+    "cost": 2588
+  },
+  {
+    "id_producto": 40,
+    "date": "2020-06-11",
+    "cost": 2845
+  },
+  {
+    "id_producto": 41,
+    "date": "2020-06-08",
+    "cost": 2280
+  },
+  {
+    "id_producto": 42,
+    "date": "2020-06-13",
+    "cost": 2200
+  },
+  {
+    "id_producto": 43,
+    "date": "2020-06-08",
+    "cost": 2630
+  },
+  {
+    "id_producto": 44,
+    "date": "2020-06-10",
+    "cost": 2640
+  },
+  {
+    "id_producto": 45,
+    "date": "2020-06-12",
+    "cost": 2175
+  },
+  {
+    "id_producto": 46,
+    "date": "2020-06-11",
+    "cost": 2478
+  },
+  {
+    "id_producto": 47,
+    "date": "2020-06-12",
+    "cost": 2405
+  },
+  {
+    "id_producto": 48,
+    "date": "2020-06-10",
+    "cost": 2260
+  },
+  {
+    "id_producto": 49,
+    "date": "2020-06-11",
+    "cost": 2714
+  },
+  {
+    "id_producto": 50,
+    "date": "2020-06-10",
+    "cost": 2683
+  },
+  {
+    "id_producto": 1,
+    "date": "2020-06-17",
+    "cost": 3435
+  },
+  {
+    "id_producto": 2,
+    "date": "2020-06-16",
+    "cost": 3496
+  },
+  {
+    "id_producto": 3,
+    "date": "2020-06-19",
+    "cost": 3079
+  },
+  {
+    "id_producto": 4,
+    "date": "2020-06-18",
+    "cost": 3302
+  },
+  {
+    "id_producto": 5,
+    "date": "2020-06-15",
+    "cost": 3370
+  },
+  {
+    "id_producto": 6,
+    "date": "2020-06-18",
+    "cost": 3179
+  },
+  {
+    "id_producto": 7,
+    "date": "2020-06-19",
+    "cost": 3122
+  },
+  {
+    "id_producto": 8,
+    "date": "2020-06-19",
+    "cost": 3581
+  },
+  {
+    "id_producto": 9,
+    "date": "2020-06-19",
+    "cost": 3611
+  },
+  {
+    "id_producto": 10,
+    "date": "2020-06-20",
+    "cost": 3014
+  },
+  {
+    "id_producto": 11,
+    "date": "2020-06-19",
+    "cost": 3464
+  },
+  {
+    "id_producto": 12,
+    "date": "2020-06-17",
+    "cost": 3004
+  },
+  {
+    "id_producto": 13,
+    "date": "2020-06-19",
+    "cost": 3187
+  },
+  {
+    "id_producto": 14,
+    "date": "2020-06-15",
+    "cost": 3963
+  },
+  {
+    "id_producto": 15,
+    "date": "2020-06-19",
+    "cost": 3155
+  },
+  {
+    "id_producto": 16,
+    "date": "2020-06-18",
+    "cost": 3802
+  },
+  {
+    "id_producto": 17,
+    "date": "2020-06-19",
+    "cost": 3072
+  },
+  {
+    "id_producto": 18,
+    "date": "2020-06-17",
+    "cost": 3779
+  },
+  {
+    "id_producto": 19,
+    "date": "2020-06-18",
+    "cost": 3103
+  },
+  {
+    "id_producto": 20,
+    "date": "2020-06-18",
+    "cost": 3013
+  },
+  {
+    "id_producto": 21,
+    "date": "2020-06-16",
+    "cost": 3374
+  },
+  {
+    "id_producto": 22,
+    "date": "2020-06-19",
+    "cost": 3289
+  },
+  {
+    "id_producto": 23,
+    "date": "2020-06-20",
+    "cost": 3278
+  },
+  {
+    "id_producto": 24,
+    "date": "2020-06-20",
+    "cost": 3085
+  },
+  {
+    "id_producto": 25,
+    "date": "2020-06-17",
+    "cost": 3415
+  },
+  {
+    "id_producto": 26,
+    "date": "2020-06-20",
+    "cost": 3259
+  },
+  {
+    "id_producto": 27,
+    "date": "2020-06-20",
+    "cost": 3433
+  },
+  {
+    "id_producto": 28,
+    "date": "2020-06-18",
+    "cost": 3610
+  },
+  {
+    "id_producto": 29,
+    "date": "2020-06-16",
+    "cost": 3603
+  },
+  {
+    "id_producto": 30,
+    "date": "2020-06-18",
+    "cost": 3006
+  },
+  {
+    "id_producto": 31,
+    "date": "2020-06-17",
+    "cost": 3191
+  },
+  {
+    "id_producto": 32,
+    "date": "2020-06-17",
+    "cost": 3683
+  },
+  {
+    "id_producto": 33,
+    "date": "2020-06-19",
+    "cost": 3773
+  },
+  {
+    "id_producto": 34,
+    "date": "2020-06-15",
+    "cost": 3802
+  },
+  {
+    "id_producto": 35,
+    "date": "2020-06-19",
+    "cost": 3951
+  },
+  {
+    "id_producto": 36,
+    "date": "2020-06-20",
+    "cost": 3819
+  },
+  {
+    "id_producto": 37,
+    "date": "2020-06-16",
+    "cost": 3777
+  },
+  {
+    "id_producto": 38,
+    "date": "2020-06-16",
+    "cost": 3365
+  },
+  {
+    "id_producto": 39,
+    "date": "2020-06-19",
+    "cost": 3899
+  },
+  {
+    "id_producto": 40,
+    "date": "2020-06-18",
+    "cost": 3483
+  },
+  {
+    "id_producto": 41,
+    "date": "2020-06-19",
+    "cost": 3711
+  },
+  {
+    "id_producto": 42,
+    "date": "2020-06-15",
+    "cost": 3196
+  },
+  {
+    "id_producto": 43,
+    "date": "2020-06-17",
+    "cost": 3278
+  },
+  {
+    "id_producto": 44,
+    "date": "2020-06-18",
+    "cost": 3266
+  },
+  {
+    "id_producto": 45,
+    "date": "2020-06-17",
+    "cost": 3020
+  },
+  {
+    "id_producto": 46,
+    "date": "2020-06-18",
+    "cost": 3280
+  },
+  {
+    "id_producto": 47,
+    "date": "2020-06-19",
+    "cost": 3929
+  },
+  {
+    "id_producto": 48,
+    "date": "2020-06-15",
+    "cost": 3689
+  },
+  {
+    "id_producto": 49,
+    "date": "2020-06-17",
+    "cost": 3151
+  },
+  {
+    "id_producto": 50,
+    "date": "2020-06-18",
+    "cost": 3457
+  }
+]
