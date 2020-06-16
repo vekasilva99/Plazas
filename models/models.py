@@ -19,16 +19,16 @@ class Warehouse (models.Model):
     def __str__(self):
         return self.name
 
+class Category (models.Model):
+    id_category=models.IntegerField(primary_key=True)
+    name = models.CharField(max_length=30, null=True)
+    def __str__(self):
+        return self.name
+
 class Product (models.Model):
     id_product=models.IntegerField(primary_key=True)
     name = models.CharField(max_length=30)
     id_category=models.ForeignKey(Category, on_delete= models.CASCADE)
-    def __str__(self):
-        return self.name
-
-class Category (models.Model):
-    id_category=models.IntegerField(primary_key=True)
-    name = models.CharField(max_length=30, null=True)
     def __str__(self):
         return self.name
 
@@ -41,11 +41,11 @@ class Client (models.Model):
         return self.id_client
 
 class Affiliate (models.Model):
-    id_client=models.models.OneToOneField(
+    id_client=models.OneToOneField(
         'Client', on_delete=models.CASCADE, null=False, blank=False, primary_key=True)
     name = models.CharField(max_length=30, null=True)
     identification = models.CharField(max_length=8, unique=True)
-    points = models.Integer(default=0)
+    points = models.IntegerField(default=0)
     def __str__(self):
         return self.name
 
@@ -115,5 +115,18 @@ class Bill (models.Model):
     points=models.IntegerField()
     hour=models.TimeField()
     date=models.DateField()
+    id_store=models.ForeignKey(Store, on_delete= models.CASCADE)
+    id_bank=models.ForeignKey(Bank, on_delete= models.CASCADE)
+
+class Bill_Detail (models.Model): 
+    id_bill=models.ForeignKey(Bill, on_delete= models.CASCADE)
+    id_product=models.ForeignKey(Product, on_delete= models.CASCADE)
+    price=models.FloatField()
+    quantity=models.IntegerField()
+    
+class Stored_in (models.Model): 
+    id_warehouse=models.ForeignKey(Warehouse, on_delete= models.CASCADE)
+    id_product=models.ForeignKey(Product, on_delete= models.CASCADE)
+    quantity=models.IntegerField()
     def __str__(self):
         return self.name
